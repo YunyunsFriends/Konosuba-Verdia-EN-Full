@@ -1,0 +1,1 @@
+# Konosuba-Verdia-EN-Full
