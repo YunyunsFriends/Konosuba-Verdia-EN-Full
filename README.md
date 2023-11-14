@@ -1,3 +1,4 @@
+![Logo](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Logo.png)
 # KonoSuba: Verdia of the Resurrection 100% English Patch
 
 ### Launcher Change Log:
@@ -55,7 +56,7 @@ Shaggy_Thecat
 - Bug Fixing
 	
 Striker
--Proofreading
+- Proofreading
 
 ### Special Thanks:
 
