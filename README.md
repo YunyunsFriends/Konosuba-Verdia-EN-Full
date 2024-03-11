@@ -83,5 +83,5 @@ Team Ladybug
 - For developing such a wonderfully high quality game!
 - Check out their other games on [Steam](https://store.steampowered.com/search/?developer=Team%20Ladybug)!
 
-Kurone Mishima and The KONOSUBA Animation Staff
+Natsume Akatsuki, Kurone Mishima, and The KONOSUBA Animation Staff
 - For all their passionate work for this wonderful series!
