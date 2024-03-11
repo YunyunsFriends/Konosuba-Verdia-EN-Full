@@ -1,6 +1,8 @@
 ![Logo](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Logo.png)
 # KonoSuba: Verdia of the Resurrection 100% English Patch
 
+The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
+
 ### Launcher Change Log:
 
 - Replaced Japanese text with English translations.
