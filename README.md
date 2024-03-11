@@ -64,21 +64,22 @@ Striker
 ### Special Thanks:
 
 CTFAK
-	- This program allowed us to convert or "decompile" the game back to a .MFA file to load into Fusion.
-	- https://github.com/CTFAK
+- This program allowed us to convert or "decompile" the game back to a .MFA file to load into Fusion.
+- https://github.com/CTFAK
 
 AudioStock
-	- Has a variety of stock audio form Japanese composers such as Notzan ACT, which has various tracks licensed for the game.
-	- https://audiostock.net/
+- Has a variety of stock audio form Japanese composers such as Notzan ACT, which has various tracks licensed for the game.
+- https://audiostock.net/
 
 Google Fonts
-	- A resource of open source fonts. ABeeZee-Regular was used in this mod.
-	- Licensed under the Open Font License. Can be found in the "font" folder.
-	- https://fonts.google.com/
-	- https://openfontlicense.org/
+- A resource of open source fonts. ABeeZee-Regular was used in this mod.
+- Licensed under the Open Font License. Can be found in the "font" folder.
+- https://fonts.google.com/
+- https://openfontlicense.org/
 
 Team Ladybug
-        - For developing such a wonderfully high quality game!
+- For developing such a wonderfully high quality game!
+- Check out their other games on [Steam](https://store.steampowered.com/search/?developer=Team%20Ladybug)!
 
 Kurone Mishima and The KONOSUBA Animation Staff
-        - For all their passionate work for this wonderful series!
+- For all their passionate work for this wonderful series!
