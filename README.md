@@ -3,6 +3,8 @@
 
 The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
 
+![Trailer](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Trailer.mp4)
+
 ### Launcher Change Log:
 
 - Replaced Japanese text with English translations.
