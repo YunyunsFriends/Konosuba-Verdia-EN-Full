@@ -1,6 +1,6 @@
 ![Logo](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Logo.png)
 # KonoSuba: Verdia of the Resurrection 100% English Patch
-![Downloads](https://img.shields.io/github/downloads/YunyunsFriends/Konosuba-Verdia-EN-Full/total.svg)
+![Downloads](https://img.shields.io/github/downloads/YunyunsFriends/Konosuba-Verdia-EN-Full/total.svg) ![Discord](https://img.shields.io/discord/1088065217763737693) ![YouTube Video Views](https://img.shields.io/youtube/views/fUYvY4gCoJY)
 
 The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
 
@@ -67,19 +67,15 @@ Striker
 
 ### Special Thanks:
 
-CTFAK
+[CTFAK](https://github.com/CTFAK)
 - This program allowed us to convert or "decompile" the game back to a .MFA file to load into Fusion.
-- https://github.com/CTFAK
 
-AudioStock
+[AudioStock](https://audiostock.net/)
 - Has a variety of stock audio form Japanese composers such as Notzan ACT, which has various tracks licensed for the game.
-- https://audiostock.net/
 
-Google Fonts
+[Google Fonts](https://fonts.google.com/)
 - A resource of open source fonts. ABeeZee-Regular was used in this mod.
-- Licensed under the Open Font License. Can be found in the "font" folder.
-- https://fonts.google.com/
-- https://openfontlicense.org/
+- Licensed under the [Open Font License](https://openfontlicense.org/). Can be found in the "font" folder.
 
 Team Ladybug
 - For developing such a wonderfully high quality game!
