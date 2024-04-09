@@ -1,6 +1,6 @@
 ![Logo](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Logo.png)
 # KonoSuba: Verdia of the Resurrection 100% English Patch
-[![Downloads](https://img.shields.io/github/downloads/YunyunsFriends/Konosuba-Verdia-EN-Full/total.svg)](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases) [![Discord](https://img.shields.io/discord/1088065217763737693)](https://discord.gg/X2MWMUzWJ5) [![YouTube Video Views](https://img.shields.io/youtube/views/fUYvY4gCoJY)](https://www.youtube.com/watch?v=fUYvY4gCoJY)
+[![Downloads](https://img.shields.io/github/downloads/YunyunsFriends/Konosuba-Verdia-EN-Full/total.svg?logo=github)](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases) [![Discord](https://img.shields.io/discord/1088065217763737693?logo=discord&logoColor=%235865F2&color=%235865F2)](https://discord.gg/X2MWMUzWJ5) [![YouTube Video Views](https://img.shields.io/youtube/views/fUYvY4gCoJY)](https://www.youtube.com/watch?v=fUYvY4gCoJY)
 
 The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
 
