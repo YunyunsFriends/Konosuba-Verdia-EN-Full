@@ -1,9 +1,8 @@
 ![Logo](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Logo.png)
 # KonoSuba: Verdia of the Resurrection 100% English Patch
+![Downloads](https://img.shields.io/github/downloads/YunyunsFriends/Konosuba-Verdia-EN-Full/total.svg)
 
 The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
-
-![Trailer](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/blob/c15937e56e6404d2c7b5bf7da0acba5da8374be7/githubassets/Trailer.mp4)
 
 ### Launcher Change Log:
 
@@ -19,6 +18,7 @@ The latest release can be found [here](https://github.com/YunyunsFriends/Konosub
 
 - Replaced all Japanese text (Names, Quests, Lists, Textures, Ect.) with English translations.
 - Rebased on Clickteam Fusion 2.5+ Build R294.14 (Originally based on Build 287).
+- Updated the title screen to differentiate this version of the game from the original. 
 - Set the game to be displayed with a forced aspect ratio of 16:9.
 	- This fixes the game stretching to fill the screen on non-16:9 aspect ratio displays like the Steam Deck or ultrawide monitors.
 - Fixed various bugs found in the original release.
