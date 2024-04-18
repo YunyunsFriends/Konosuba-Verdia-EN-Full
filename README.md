@@ -44,6 +44,15 @@ The latest release can be found [here](https://github.com/YunyunsFriends/Konosub
 
 Decompiled/converted with CTFAK 2.2: The Definitive Update
 
+Version 1.0.1:
+
+- Fixed a typo.
+
+Version 1.0.2:
+
+- Fixed an [issue](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/issues/1) in "Cabbage Subjugation" where the timer did not pause when time is added.
+	- Thanks for reporting this xBlazeCubedx!
+
 ### Known Issues:
 
 - There is a possibility to damage the Giant Toads with Create Water. (Original Release Bug)
