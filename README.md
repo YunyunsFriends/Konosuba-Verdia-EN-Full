@@ -4,7 +4,7 @@
 
 The latest release can be found [here](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/releases).
 
-### Launcher Change Log:
+## Launcher Change Log:
 
 - Replaced Japanese text with English translations.
 - Added a default controls option in the Keyboard/Gamepad config.
@@ -14,7 +14,7 @@ The latest release can be found [here](https://github.com/YunyunsFriends/Konosub
 - Due to issues with virus scanners flagging the newly compiled executables as malicious, the launcher has been compiled to load an external data file and modules to combat this issue.
 - Rebased on Clickteam Fusion 2.5+ Build R294.14 (Originally based on Build 287).
 
-### Game Change Log:
+## Game Change Log:
 
 - Replaced all Japanese text (Names, Quests, Lists, Textures, Ect.) with English translations.
 - Rebased on Clickteam Fusion 2.5+ Build R294.14 (Originally based on Build 287).
@@ -44,16 +44,21 @@ The latest release can be found [here](https://github.com/YunyunsFriends/Konosub
 
 Decompiled/converted with CTFAK 2.2: The Definitive Update
 
-Version 1.0.1:
+### Version 1.0.1:
 
 - Fixed a typo.
 
-Version 1.0.2:
+### Version 1.0.2:
 
 - Fixed an [issue](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/issues/1) in "Cabbage Subjugation" where the timer did not pause when time is added.
 	- Thanks for reporting this xBlazeCubedx!
 
-### Known Issues:
+### Version 1.0.3:
+
+- Fixed an [issue](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/issues/2) in the Opening Stage where the game did not transition the the Game Over screen upon Kazuma's untimely demise.
+	- Thanks for reporting this Diesper!
+
+## Known Issues:
 
 - There is a possibility to damage the Giant Toads with Create Water. (Original Release Bug)
 - Skill text may disappear when pressing Attack to consume an HP or MP restoring item while in the selection menu. (Original Release Bug)
@@ -62,7 +67,7 @@ Version 1.0.2:
 - On the Steam Deck, the font used for the parts of the copyright text and level difficulty text is not available/does not function properly under W.I.N.E./Proton and will not display certain Unicode characters.
 - Utilizing other translations' dial.dat files will result in a few timing issues with cutscenes, while not game-breaking this mod was made with our own translation in mind.
 
-### Credits:
+## Credits:
 
 Deux_Mechina
 - Project Leader
