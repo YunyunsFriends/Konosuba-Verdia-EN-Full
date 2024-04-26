@@ -55,7 +55,7 @@ Decompiled/converted with CTFAK 2.2: The Definitive Update
 
 ### Version 1.0.3:
 
-- Fixed an [issue](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/issues/2) in the Opening Stage where the game did not transition the the Game Over screen upon Kazuma's untimely demise.
+- Fixed an [issue](https://github.com/YunyunsFriends/Konosuba-Verdia-EN-Full/issues/2) in the Opening Stage where the game did not transition to the Game Over screen upon Kazuma's untimely demise.
 	- Thanks for reporting this Diesper!
 
 ## Known Issues:
