@@ -32,7 +32,7 @@ The latest release can be found [here](https://github.com/YunyunsFriends/Konosub
 	- The opening cutscene was changed to have three sprites change off screen instead of just before.
 	- Timing changes were made to the opening cutscene for a newly added line.
 	- The final cutscene has a character's sprite change one line earlier.
-- Slightly adjusted the level design of the Opening Stage to tech the player how to use the dash jump.
+- Slightly adjusted the level design of the Opening Stage to teach the player how to use the dash jump.
 - Updated Notzan ACT tracks with higher quality versions from AudioStock on the stages listed below.
 	- Aqua's stage - Submarine.
 	- Stage 5 - Confrontation.
